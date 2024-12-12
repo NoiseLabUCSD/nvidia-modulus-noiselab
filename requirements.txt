@@ -3,4 +3,6 @@ torchvision
 torchaudio
 nvidia-modulus
 importlib_metadata
-nvidia-modulus-sym
+pint==0.19.2
+Cython
+nvidia-modulus.sym
