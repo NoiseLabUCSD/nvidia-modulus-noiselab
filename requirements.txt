@@ -1,6 +1,6 @@
-torch --index-url https://download.pytorch.org/whl/cu121
-torchvision
-torchaudio
-nvidia-modulus
 importlib_metadata
-nvidia-modulus-sym
+nvidia-modulus.sym
+einops
+cftime
+wandb
+mlflow
