@@ -19,7 +19,7 @@ python3 -m venv <your_virtualenv_name>
 conda deactivate
 ```
 
-### **Step 3: Activate the Virtual Environment**
+### **Step 2: Activate the Virtual Environment**
 Activate the newly created virtual environment:
 
 ```bash
